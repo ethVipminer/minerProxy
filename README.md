@@ -1,6 +1,8 @@
 ﻿## MinerProxy
 一键搭建抽水中转平台，只支持ETH，版本已稳定 最稳定的ETH以太坊代理中转矿池程序，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。
 **************************************
+##无论centos、ubuntu还是windows都要在，开放端口和流量
+
 ## centos下
 ```bash
 yum update    
